@@ -1,6 +1,8 @@
 ## Hi, I am ismail 
 
-🧠 Bachelor of business administration in customer application student 
+🧠 I am a highly skilled full-stack developer with over 5 years of experience in .NET MVC, .NET Core, Web API, React, React Native, Angular, Node.js, and Next.js, specializing in scalable architectures, microservices, and enterprise solutions with a strong focus on clean code, security, and maintainability.
+
+
 
 
 
