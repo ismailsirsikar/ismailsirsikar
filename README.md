@@ -149,7 +149,6 @@ currently:  ⚡ Open to exciting opportunities
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ismailsirsikar&label=Profile%20Views&color=7&icon=0&pretty=true)
 
 *Crafted with precision · Powered by caffeine · Driven by clean code*
 
