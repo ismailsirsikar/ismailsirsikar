@@ -108,8 +108,7 @@ currently:  ⚡ Open to exciting opportunities
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ismailsirsikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d14&title_color=7b5cf0&text_color=e8e8f0&icon_color=00e5ff&ring_color=7b5cf0" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailsirsikar&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0d14&title_color=7b5cf0&text_color=e8e8f0&langs_count=8" />
+
 
 </div>
 
@@ -125,15 +124,6 @@ currently:  ⚡ Open to exciting opportunities
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ismailsirsikar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 ---
 
